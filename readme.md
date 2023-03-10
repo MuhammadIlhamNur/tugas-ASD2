@@ -1,0 +1,5 @@
+# Program Searching Jump Search
+## Fungsi Program
+Program ini dapat digunakan untuk mencari indeks pada data-data yang tersedia. Untuk algoritma yang digunakan adalah algoritma jump search.
+## Cara Kerja Program
+Untuk cara kerja  program cukup mudah untuk dipahami. Pada proses awal program akan meminta pengguna untuk meng-input data yang ingin dicari. Kemudian, setelah pengguna memasukan data yang ingin dicari program akan langsung menjalankan algoritma yang telah ada di dalam program, yaitu algoritma jump search. Setelah itu program akan memberikan output ke pengguna berupa teks "Data ada di indeks ke-x" jika data yang dicari ada. Dan program akan memberikan output teks "Data ada di indeks x kolom y" jika data yang dicari ada dan berada di dalam sebuah kolom. Namun, jika data yang dicari tidak ada maka pengguna akan melihat output berupa teks "Data tidak ada". Setelah memberika output teks tersebut, program akan langsung berhenti
